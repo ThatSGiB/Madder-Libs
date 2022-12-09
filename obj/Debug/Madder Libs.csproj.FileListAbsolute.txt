@@ -1,0 +1,8 @@
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\Madder Libs\Madder Libs\bin\Debug\Madder Libs.exe.config
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\Madder Libs\Madder Libs\bin\Debug\Madder Libs.exe
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\Madder Libs\Madder Libs\bin\Debug\Madder Libs.pdb
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\Madder Libs\Madder Libs\obj\Debug\Madder Libs.csproj.AssemblyReference.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\Madder Libs\Madder Libs\obj\Debug\Madder Libs.csproj.SuggestedBindingRedirects.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\Madder Libs\Madder Libs\obj\Debug\Madder Libs.csproj.CoreCompileInputs.cache
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\Madder Libs\Madder Libs\obj\Debug\Madder Libs.exe
+C:\Spencer's Stuff\School and Work\22-23\IDAPS3\EC\Madder Libs\Madder Libs\obj\Debug\Madder Libs.pdb
